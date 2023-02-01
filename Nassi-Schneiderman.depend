@@ -1,0 +1,194 @@
+# depslib dependency file v1.0
+1669393376 source:d:\hdd storage\storage\nassi-schneiderman\nassi-schneiderman\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1669393595 d:\hdd storage\storage\nassi-schneiderman\nassi-schneiderman\backend.h
+
+1669393522 d:\hdd storage\storage\nassi-schneiderman\nassi-schneiderman\frontend.h
+
+1669632987 source:f:\ip\proiect\nassi-shneiderman\nassi-schneiderman 25.09 18_39\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1669638399 f:\ip\proiect\nassi-shneiderman\nassi-schneiderman 25.09 18_39\frontend.h
+
+1669638566 f:\ip\proiect\nassi-shneiderman\nassi-schneiderman 25.09 18_39\backend.h
+
+1669662676 source:d:\hdd storage\storage\nassi-shneiderman\nassi_shneiderman 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1669662375 d:\hdd storage\storage\nassi-shneiderman\nassi_shneiderman 2\frontend.h
+
+1669663897 d:\hdd storage\storage\nassi-shneiderman\nassi_shneiderman 2\backend.h
+
+1669804951 source:d:\hdd storage\storage\nassi-shneiderman\nassi-shneiderman 2\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1669662375 d:\hdd storage\storage\nassi-shneiderman\nassi-shneiderman 2\frontend.h
+
+1669806496 d:\hdd storage\storage\nassi-shneiderman\nassi-shneiderman 2\backend.h
+
+1669768950 source:f:\ip\proiect\nassi-shneiderman\nassi-shneiderman 30.11.2022 22_15\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1669626374 f:\ip\proiect\nassi-shneiderman\nassi-shneiderman 30.11.2022 22_15\frontend.h
+
+1670238286 f:\ip\proiect\nassi-shneiderman\nassi-shneiderman 30.11.2022 22_15\backend.h
+
+1669768950 source:f:\ip\proiect\nassi-shneiderman\nassi-shneiderman 5.12.2022 13_10\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1669626374 f:\ip\proiect\nassi-shneiderman\nassi-shneiderman 5.12.2022 13_10\frontend.h
+
+1670239617 f:\ip\proiect\nassi-shneiderman\nassi-shneiderman 5.12.2022 13_10\backend.h
+
+1670668536 source:d:\hdd storage\storage\nassi-shneiderman\nassi-shneiderman 3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1670747604 d:\hdd storage\storage\nassi-shneiderman\nassi-shneiderman 3\frontend.h
+
+1670748076 d:\hdd storage\storage\nassi-shneiderman\nassi-shneiderman 3\backend.h
+
+1670632536 source:f:\ip\proiect\nassi-shneiderman\11.12.2022 20_11\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1670711604 f:\ip\proiect\nassi-shneiderman\11.12.2022 20_11\frontend.h
+
+1671042673 f:\ip\proiect\nassi-shneiderman\11.12.2022 20_11\backend.h
+
+1671637609 source:d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1671273102 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\frontend.h
+	"buttons.h"
+
+1671274515 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\backend.h
+	"selectFile.h"
+	"drawFunctions.h"
+	"closeFunctions.h"
+	"isInsideFunctions.h"
+	"hoverFunctions.h"
+
+1671270147 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\selectfile.h
+
+1671271697 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\drawfunctions.h
+
+1671638786 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\closefunctions.h
+
+1671271034 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\isinsidefunctions.h
+
+1671271461 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\hoverfunctions.h
+
+1671273044 d:\hdd storage\storage\nassi-shneiderman\nassi-schneiderman 4\buttons.h
+
+1671637609 source:d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstdio>
+	<graphics.h>
+	<winbgim.h>
+	<windows.h>
+	<cstring>
+	"frontEnd.h"
+	"backEnd.h"
+
+1671273102 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\frontend.h
+	"buttons.h"
+
+1671273044 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\buttons.h
+
+1671274515 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\backend.h
+	"selectFile.h"
+	"drawFunctions.h"
+	"closeFunctions.h"
+	"isInsideFunctions.h"
+	"hoverFunctions.h"
+
+1671270147 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\selectfile.h
+
+1671271697 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\drawfunctions.h
+
+1671638786 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\closefunctions.h
+
+1671271034 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\isinsidefunctions.h
+
+1671271461 d:\hdd storage\storage\nassi-shneiderman\generator nassi-shneiderman\hoverfunctions.h
+

@@ -1,0 +1,8 @@
+function baba (int a)
+BEGIN
+ a = b
+ if a==b then
+   x = c
+ else
+   x = a
+END
